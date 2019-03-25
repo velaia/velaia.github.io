@@ -23,7 +23,7 @@ This **speeds up the customer support and ordering process**. Where in the past 
 * Collect data and improve the predictions over time
 
 
-## Project Stages
+<!-- ## Project Stages
 
 ### Proof of Concept 1
 ### Proof of Concept 2
@@ -34,3 +34,4 @@ This **speeds up the customer support and ordering process**. Where in the past 
 ## Neural Architecture
 
 ## Software Architecture
+-->

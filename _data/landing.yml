@@ -8,13 +8,13 @@
 
 - id: productsServices
   i18n: nav.customers
-  name: Our Customers
+  name: Products & Services
   tpl: productsServices.html
   css:
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: References
   tpl: projects.html
   css: project
 
