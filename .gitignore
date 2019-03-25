@@ -1,7 +1,11 @@
-_site
+_site.back
 .sass-cache
 .jekyll-metadata
 .idea
 .DS_Store
 node_modules
 npm-debug.log
+.jekyll-metadata
+_site
+.bundle
+vendor
