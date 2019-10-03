@@ -1,0 +1,14 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Consulting
+description: |
+---
+<p>We help you with the following challenges:</p>
+<ul>
+<li>How do you <strong>lead your company into the <abbr class="initialism" title="Artificial Intelligence">AI</abbr> era</strong>?</li>
+<li>You have ideas for how to apply <abbr class="initialism" title="Artificial Intelligence">AI</abbr> in your company and need an <strong>experienced partner</strong> realising them.</li>
+<li>You want to <strong>make better use of data</strong> you have available.</li>
+<li>You want to <strong>provide broad <abbr class="initialism" title="Artificial Intelligence">AI</abbr> training</strong> to your employees and seek guidance on how to implement a training program.</li>
+</ul>

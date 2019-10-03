@@ -1,0 +1,13 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Engineering & Training
+description: |
+---
+<p>Our expertise in Neural Networks and Machine Learning helps you get results faster.</p>
+<ul>
+<li><strong>Development, Training and Fine-Tuning</strong> of of <abbr class="initialism" title="Artificial Intelligence">AI</abbr> architectures and models (Software 2.0).</li>
+<li><strong>Integration of AI</strong> into your existing IT landscape.</li>
+<li><strong>Software Architecture and Software</strong> Engineering close-knit with AI.</li>
+</ul>

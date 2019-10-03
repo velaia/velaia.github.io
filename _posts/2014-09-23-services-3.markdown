@@ -1,0 +1,12 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Industry 4.0 / Edge Deployment
+description: |
+---
+<p>We assist you in AI edge deployments:</p>
+<ul>
+<li><strong>Mobile, smart devices and <abbr title="Internet of Things">IoT</abbr></strong>: We got you covered. Deploy your neural networks on the edge and profit from our expertise in mobile and edge deployments.</li>
+<li>Whether <strong>Nvidia, Intel or Google</strong>: We're tracking the latest hardware developments and work with the <strong>highest performance edge devices on the market</strong>.</li>
+</ul>
