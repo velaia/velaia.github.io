@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tfc.ai" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tfc_ai
 github_username: "" 
-copyright: "tfc.ai OÜ 2019"
+copyright: "Copyright © tfc.ai OÜ 2019"
 
 social:
  - title: twitter
