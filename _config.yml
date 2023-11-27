@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  tfc.ai - experts in AI
+title:  tfc.ai - Experts in AI
 email: web@tfc.ai
 description: >- # this means to ignore newlines until "baseurl:"
   tfc.ai's state-of-the-art Machine Learning expertise is your advantage in establishing a strong technological foundation for your enterprise. 
@@ -29,9 +29,36 @@ url: "https://tfc.ai" # the base hostname & protocol for your site, e.g. http://
 github_username:  velaia
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: broccolini/swiss
+theme_color: red
 # plugins:
   # - jekyll-feed
+
+# Timezone
+timezone: Europe/Estonia
+
+# Collections
+collections:
+  authors:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
