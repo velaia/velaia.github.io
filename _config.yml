@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   tfc.ai's state-of-the-art Machine Learning expertise is your advantage in establishing a strong technological foundation for your enterprise. 
   Our experts are available for you globally and locally to strengthen your competitive advantage in this new era of computing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://velaia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tfc.ai" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  velaia
 
@@ -32,8 +32,9 @@ github_username:  velaia
 # theme: minima
 remote_theme: broccolini/swiss
 theme_color: red
-# plugins:
-  # - jekyll-feed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Timezone
 timezone: Europe/Estonia
