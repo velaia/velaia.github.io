@@ -1,6 +1,6 @@
 ---
 layout: page
-title: references
+title: References
 permalink: /references/
 description: A growing collection of your cool projects.
 nav: true

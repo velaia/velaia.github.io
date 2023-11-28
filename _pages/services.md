@@ -20,9 +20,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-- align: right
-    image: indudstry4.0.jpg
-    content: engineering.md
+  - align: right
+    image: industry4.0.jpg
+    content: industry4.0.md
+    
     image_circular: false # crops the image to make it circular
     more_info: 
 ---
