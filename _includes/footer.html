@@ -1,5 +1,25 @@
-<div class="border-top-thin clearfix mt-2 mt-lg-4">
-    <div class="container mx-auto px-2">
-      <p class="col-8 sm-width-full left py-2 mb-0">This project is maintained by tfc.ai OÜ</p>
-    </div>
-  </div>
+    {% if site.footer_fixed %}
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.company }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- else -%}
+    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.company }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- endif %}
