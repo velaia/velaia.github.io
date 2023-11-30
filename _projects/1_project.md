@@ -3,6 +3,7 @@ layout: product_page
 title: AI Product Identifier
 description: Finding the right product from an image.
 img: assets/img/digital-camera-parts.jpg
+permalink: /projects/ai-product-identifier
 importance: 1
 category:
 related_publications: 
@@ -27,11 +28,11 @@ The solution speeds up the customer support and ordering processes. Where in the
 ## Solution
 tfc.ai guided the customer through the process of identifying a suitable first AI project, executing a Proof-of-Concept project and later implementing a production solution. Together with a customer domain expert we identified the challenges and requirements:
 
-- API-based solution to suit different usage scenarios and easy integration
-- Cloud-hosting, independent of customer IT landscape
-- Continuous learning to support growing number of identifiable parts
-- Agile project with short feedback-loops
-- Possibility to quickly retrain Neural Network
+- **API-based** solution to suit different usage scenarios and easy integration
+- **Cloud-hosting**, independent of customer IT landscape
+- **Continuous learning** to support growing number of identifiable parts
+- **Agile project** with short feedback-loops
+- Customer has the ability to quickly retrain the model
 
 ## Project Details
 **Industry**: Automotive<br />
@@ -43,6 +44,8 @@ tfc.ai guided the customer through the process of identifying a suitable first A
 - Jupyter Notebook for fast network improvements
 - REST API for UI - Backend interface
 - Nvidia GeForce GPUs for network training
+
+
 
 
 The customer has agreed to us sharing the contact details on request if there's no conflict of interests / overlap in the area of operations. Get in touch if you're interested.
