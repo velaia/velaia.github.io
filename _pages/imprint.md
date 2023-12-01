@@ -9,7 +9,7 @@ toc:
 ---
 
 <p><h3>
-Responsbile for this website is:<br />
+Responsbile for this website:<br /><br />
 <strong>tfc.ai OÜ</strong><br />
 Sepapaja 6, EE-15551 Tallinn<br />
 e-mail: <img style="height: 45px;" src="/assets/img/info-address_transp.png"><br />
