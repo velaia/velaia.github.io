@@ -1,6 +1,6 @@
 ---
 layout: product_page
-title: 100% Inspection using AI
+title: 100% AI Inspection
 description: Using AI algorithms to classify OK / NOK parts.
 img: assets/img/ai-100-percent-inspection.jpg
 permalink: /projects/ai-100-percent-inspection
