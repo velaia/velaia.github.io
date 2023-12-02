@@ -18,7 +18,7 @@ The solution speeds up the customer support and ordering processes. Where in the
 
 <div class="row" style="margin-top: 30px;">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/product-identifier.png" title="UI of the product identifier AI" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/product-identifier.jpg" title="UI of the product identifier AI" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

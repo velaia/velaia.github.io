@@ -18,7 +18,7 @@ My results using Deep Learning were pretty impressive: We quickly achieved 100% 
 
 <div class="row" style="margin-top: 30px;">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pistachio-dataset-1.png" title="Samples of a pistachio dataset" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pistachio-dataset-1.jpg" title="Samples of a pistachio dataset" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,6 +37,6 @@ My results using Deep Learning were pretty impressive: We quickly achieved 100% 
 
 <div class="row" style="margin-top: 30px;">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pistachio-dataset-2.jpeg" title="Creating a pistachio dataset" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pistachio-dataset-2.jpg" title="Creating a pistachio dataset" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

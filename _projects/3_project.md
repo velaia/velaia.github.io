@@ -2,7 +2,7 @@
 layout: product_page
 title: Website visitor prediction
 description: Using AI to predict website visitor journeys.
-img: assets/img/browser-1666995_640.png
+img: assets/img/browser-1666995_640.jpg
 permalink: /projects/ai-customer-journey-prediction
 importance: 7
 category:
@@ -16,7 +16,7 @@ We were approached by a software development company to develop a customer journ
 
 <div class="row" style="margin-top: 30px;">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai-customer-journey-prediction.png" title="AI Prediction Improvements over baseline chart." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ai-customer-journey-prediction.jpg" title="AI Prediction Improvements over baseline chart." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
