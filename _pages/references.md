@@ -1,7 +1,7 @@
 ---
 layout: page
 title: References
-permalink: /references/
+permalink: /#references
 description: Artificial Intelligence projects we have completed in the past.
 nav: true
 nav_order: 3

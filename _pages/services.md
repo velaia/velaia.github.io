@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /services/
+permalink: /#services
 title: Services
 description: 
 nav: true

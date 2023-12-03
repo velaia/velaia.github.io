@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /contact/
+permalink: /#contact
 title: Contact ✉
 nav: true
 nav_order: 4
@@ -8,6 +8,7 @@ description: Contact tfc.ai
 toc:
   sidebar: left
 ---
+
 <p><h3>
 Contact us:<br /><br />
 e-mail: <img style="height: 45px;" src="/assets/img/info-address_transp.png"><br />
