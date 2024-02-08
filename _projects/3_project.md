@@ -12,7 +12,7 @@ industry: Automotive
 place: Germany
 ---
 
-We were approached by a software development company to develop a customer journey prediction AI for a German automotive company. The end customer was interested in how well a modern AI system could predict the next website a user would visit based on their browsing history. We used a dataset of millions of past website visits to train a modern language model. 
+We were approached by a German software development company to develop a customer journey prediction AI for a Southern German automotive company. The end customer was interested in how well a modern AI system could predict the next website a user would visit based on their browsing history. We used a dataset of millions of past website visits to train a modern language model. 
 
 <div class="row" style="margin-top: 30px;">
     <div class="col-sm mt-3 mt-md-0">
