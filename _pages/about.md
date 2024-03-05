@@ -38,4 +38,8 @@ profiles:
 
 Do you want to successfully lead your company into the **age of Artificial Intelligence**? tfc.ai's state-of-the-art Machine Learning expertise is your advantage in establishing a strong technological foundation for your enterprise. Our experts are available for you globally and locally to strengthen your competitive advantage in this new era of computing.
 
-We accompany you all the way: from the high-level outline of your AI strategy to the implementation in your company. Together with your domain expertise we come to solutions that work for you.
+**We accompany you all the way**: from the high-level outline of your AI strategy to the implementation in your company. Together with your domain expertise we come to solutions that work for you.
+
+**You don't know how to use AI in your business?** Perfect 👍 Get in touch with us and we'll find the most promising use cases that help you and your business stay competitive in these fast changing times.
+
+**Already have an idea but don't know how to get started or want to talk to an expert?** Wonderful. We're here to assist: Let's implement a challenging AI project together.
