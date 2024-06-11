@@ -12,7 +12,7 @@ industry: Manufacturing Industry, Funktional OÜ
 place: South Korea
 ---
 
-The challenge of this project was to perform a diverse set of measurements and surface classification as OK / Not-OK at the Edge. **25 nails/s** are zipping past the lense of the camera and the final decision in which bin they go has to be made within a fraction of a second, **2x - 4x faster than the blink of an eye**!
+The challenge of this project was to perform a diverse set of measurements and surface classification as OK / Not-OK at the Edge. **25 nails/s** are zipping past the lens of the camera and the final decision in which bin they go has to be made within a fraction of a second, **2x - 4x faster than the blink of an eye**!
 
 All of this has to happen in a **challenging industrial environment**: noise, vibrations, electromagnetic interference and dust to name just a few. While the hardware should be as small and efficient as possible.
 

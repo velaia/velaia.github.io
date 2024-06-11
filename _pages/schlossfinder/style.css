@@ -1,0 +1,66 @@
+body {
+    background-image: url('lock.jpg');
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: 700px;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(255, 149, 0);
+    opacity: 0.75;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+}
+
+/* You can position them initially as needed */
+#circle1 { top: 76px; left: 177px; }
+#circle2 { top: 673px; left: 183px; }
+#circle3 { top: 605px; left: 426px; }
+#circle4 { top: 532px; left: 344px; }
+#circle5 { top: 301px; left: 341px; }
+
+/* Table styling */
+.styledTable {
+    position: absolute;
+    right: 20px;
+    border-collapse: collapse;
+    width: 300px;
+    font-family: 'Arial', sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+#distanceTable {
+    top: 20px;
+}
+
+#searchResultsTable {
+    top: 220px; /* Adjust this value to position the second table below the first one */
+}
+
+.styledTable th, .styledTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.styledTable th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.styledTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.styledTable tr:hover {
+    background-color: #ddd;
+}
+
+.styledTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
