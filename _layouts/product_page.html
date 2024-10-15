@@ -11,17 +11,17 @@ layout: default
 
   <div class="row" style="margin-bottom: 45px;">
     <div class="col-sm mt-3 mt-md-0 text-center">
-      {% include figure.html path="assets/img/team.png" title="example image" class="img-fluid rounded" %}
+      {% include figure.html path="assets/img/team.png" title="example image" class="img-fluid rounded icon" %}
       <strong>Team</strong><br />
       {{ page.team }}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-      {% include figure.html path="assets/img/flat.png" title="example image" class="img-fluid rounded" %}
+      {% include figure.html path="assets/img/flat.png" title="example image" class="img-fluid rounded icon" %}
       <strong>Industry</strong><br />
       {{ page.industry }}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-      {% include figure.html path="assets/img/city.png" title="example image" class="img-fluid rounded" %}
+      {% include figure.html path="assets/img/city.png" title="example image" class="img-fluid rounded icon" %}
       <strong>Place</strong><br />
       {{ page.place }}
     </div>
@@ -43,3 +43,14 @@ layout: default
     {% include giscus.html %}
     {%- endif -%}
   </div>
+
+  <style>
+    @media (max-width: 767px) {
+      figure img.icon {
+        max-width: 100px !important;
+        max-height: 100px !important;
+        width: auto !important;
+        height: auto !important;
+      }
+    }
+  </style>
