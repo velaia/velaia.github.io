@@ -608,8 +608,15 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: 100%; // Full width by default (mobile)
     margin-bottom: 10px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .grid-sizer,
+    .grid-item {
+      width: 250px; // Fixed width for larger screens
+    }
   }
 
   h2.category {
