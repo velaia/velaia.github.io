@@ -14,3 +14,11 @@ Check whether a container has already been created:
 If so, you can start it using:
 
     docker start "velaiagithubio-jekyll-1"
+
+## Development
+
+Open your browser to [localhost:8080](http://localhost:8080) for development.
+
+## Deployment
+
+As soon as you push the changes to GitHub a workflow will run and build the website.
