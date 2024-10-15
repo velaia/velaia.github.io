@@ -1,3 +1,5 @@
+[![Deploy Jekyll site to Pages](https://github.com/velaia/velaia.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/velaia/velaia.github.io/actions/workflows/jekyll.yml)
+
 # Repository for the tfc.ai website
 
 ## Build locally
